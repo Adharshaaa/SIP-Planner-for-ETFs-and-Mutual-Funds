@@ -1,0 +1,6 @@
+{
+  "name": "Cautilya Capital - Wealth & Asset Management",
+  "description": "Institutional-grade wealth creation platform offering 0% commission direct mutual funds, thematic baskets, and wealth projection analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
